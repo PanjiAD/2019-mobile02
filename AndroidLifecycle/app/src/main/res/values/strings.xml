@@ -1,3 +1,7 @@
 <resources>
-	<string name="app_name">Android Lifecycle</string>
+    <string name="app_name">Android Lifecycle</string>
+    <string name="hint_name">Masukkan nama anda</string>
+    <string name="submit">Submit</string>
+    <string name="nama">Panji Awwaludi Dzikriawan</string>
+    <string name="nim">1741720049</string>
 </resources>
